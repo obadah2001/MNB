@@ -1,0 +1,2 @@
+# MNB
+Multinomial Naive Bayes
